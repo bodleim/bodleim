@@ -1,6 +1,6 @@
-[![bodleim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodleim)](https://github.com/bodleim)
+[![bodleim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodleim&show_icons=true&theme=tokyonight)](https://github.com/bodleim)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodleim)](https://github.com/bodleim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodleim&layout=compact&theme=tokyonight)](https://github.com/bodleim)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
